@@ -1,4 +1,4 @@
-console.log("working fine)
+console.log("working fine")
 const sendData = async (content) => {
     const data = {
 
